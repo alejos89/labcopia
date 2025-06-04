@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    max-width: 40rem;
+    border: 1px solid black;
+}
+
+html{
+    font-size: 10px;
+    font-family: monospace;
+}
